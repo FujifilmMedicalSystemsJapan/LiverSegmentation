@@ -1,0 +1,22 @@
+Terms of Use
+As of 07 26, 2023
+FUJIFILM Corporation
+
+FUJIFILM Corporation (Fujifilm) grants you a non-commercial license of its copyright of LiverSectionSegmentation software under the following terms and conditions.
+
+1. Fujifilm grants you a non-exclusive and royalty-free license under its copyright ownership to use, copy, modify, publish and distribute the Software, including its any derivative works, for only non-commercial and academic purposes. Except as otherwise provided herein, any of other rights, including but not limited to patents, utility models, designs, trademarks, know-how, shall not be licensed.
+
+2. Fujifilm retains the copyright of the Software, the rights of the Software as an original work underlying the derivative works, and the copyright of any and all derivative works. When you publish or distribute the Software or the derivative works, you shall include the following copyright and license notice in the appropriate place to indicate that use of the Software and the derivative works shall be only permitted for non-commercial purpose and subject to this Terms of Use.
+
+Non-Commercial Software License: ©2023 FUIJFILM Corporation. This software is permitted to use for non-commercial or academic use only subject to the Terms of Use. (Link to the Terms of Use)
+
+3. THE SOFTWARE IS PROVIDED “AS IS.” IN NO EVENT WILL FUJIFILM BE LIABLE TO YOU FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY AND PUNITIVE DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE,　COPY, MODIFY, PUBLISH AND DISTRIBUTE THE SOFTWARE AND THE DERIVATIVE WORKS OF THE SOFTWARE, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), OR ANY OTHER LEGAL THEORY, EVEN IF FUJIFILM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FUJIFILM DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+4. The license is granted when you download the Software and continue until you stop using the Software; provided, however, when the following matters are happened, the License shall be automatically terminated.
+(a) When you breach any of conditions in this Terms of Use
+(b) When you use the Software for other than the purposes permitted herein
+(c) When you enforce or make third party to enforce an Intellectual Property Rights against the Software
+
+5. Fujifilm may amend and/or modify this Terms of Use without prior notice to you.
+
+6. This Terms of Use shall be governed by and interpreted in accordance with the laws of Japan. Any dispute arising under or in connection with this Terms of Use shall be subject to the exclusive jurisdiction of the Tokyo District Court.

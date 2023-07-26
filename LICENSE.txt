@@ -8,7 +8,7 @@ FUJIFILM Corporation (Fujifilm) grants you a non-commercial license of its copyr
 
 2. Fujifilm retains the copyright of the Software, the rights of the Software as an original work underlying the derivative works, and the copyright of any and all derivative works. When you publish or distribute the Software or the derivative works, you shall include the following copyright and license notice in the appropriate place to indicate that use of the Software and the derivative works shall be only permitted for non-commercial purpose and subject to this Terms of Use.
 
-Non-Commercial Software License: ©2023 FUIJFILM Corporation. This software is permitted to use for non-commercial or academic use only subject to the Terms of Use. (Link to the Terms of Use)
+Non-Commercial Software License: ©2023 FUIJFILM Corporation. This software is permitted to use for non-commercial or academic use only subject to the Terms of Use (https://github.com/FujifilmMedicalSystemsJapan/LiverSegmentation/blob/main/LICENSE.txt)
 
 3. THE SOFTWARE IS PROVIDED “AS IS.” IN NO EVENT WILL FUJIFILM BE LIABLE TO YOU FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY AND PUNITIVE DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE,　COPY, MODIFY, PUBLISH AND DISTRIBUTE THE SOFTWARE AND THE DERIVATIVE WORKS OF THE SOFTWARE, WHETHER BASED ON CONTRACT, TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY), OR ANY OTHER LEGAL THEORY, EVEN IF FUJIFILM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FUJIFILM DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
